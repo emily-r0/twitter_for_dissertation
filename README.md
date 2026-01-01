@@ -1,2 +1,2 @@
 # twitter_for_dissertation
-Python script written in 2020 to analyze tweets in support of Post-war Recovery Studies Dissertation.
+This is a copy of the Python code I wrote in 2020 to support my dissertation on Reconciliation in post-war Sri Lanka. I have redacted private information like API keys. Since this was written for my master's dissertation, I am also adding my Methodology to the repository. This was my first use of Python, and my first attempt at coding since a data science class in undergrad, so I had <strong>a lot</strong> of help from friends and online resources. I hope if someone stumbles across this it'll help them in their own journey!
